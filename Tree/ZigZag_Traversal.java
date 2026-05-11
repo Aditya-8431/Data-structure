@@ -1,3 +1,4 @@
+package Tree;
 import java.util.*;
 class Solutions{
         static class TreeNode {
