@@ -35,3 +35,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+## Ignore Competitive Programming Helper (CPH) files
+.cph/
