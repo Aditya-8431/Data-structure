@@ -9,6 +9,7 @@ public class Check_Kth_bit {
         int k=sc.nextInt();
         boolean result= findIthBitSet(n,k);
         System.out.println(result);
+        sc.close();
     }
     public static boolean findIthBitSet(int n,int k){
         // Using Right Bit
